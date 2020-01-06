@@ -1,4 +1,4 @@
-class TestPropertyiesClass{
+export class TestPropertyiesClass{
     //With that syntax during compilation fields are auto generated because of the provided parameters
     constructor(public _x?: number, private _y?: number){
     }

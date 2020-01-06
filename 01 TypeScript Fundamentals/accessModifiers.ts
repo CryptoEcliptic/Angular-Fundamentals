@@ -1,5 +1,5 @@
 //Class with constructor
-class TestFigure{
+export class TestFigure{
     private x: number;
     private y: number;
 
